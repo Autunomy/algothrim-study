@@ -4,3 +4,4 @@
 
 我的题解还会上传到我的网站中[www.autunomy.top](www.autunomy.top)
 
+我是一个java选手，我的算法比赛模板可以在这里查看：[http://www.autunomy.top/blog/content/111](http://www.autunomy.top/blog/content/111)
