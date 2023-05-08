@@ -1,5 +1,3 @@
-<img src="http://cdn.autunomy.top/ff8519d003ea49b398ef56d256299414smile.jpg" alt="http://cdn.autunomy.top/ff8519d003ea49b398ef56d256299414smile.jpg" style="zoom: 50%;margin:0 auto;text-algin:center" />
-
 # 😀Autunomy的算法学习记录
 
 目前题解全部都是java语言，其他语言选手可以去对应题目看大佬们的题解
