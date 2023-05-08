@@ -1,4 +1,4 @@
-<img src="http://cdn.autunomy.top/ff8519d003ea49b398ef56d256299414smile.jpg" alt="http://cdn.autunomy.top/ff8519d003ea49b398ef56d256299414smile.jpg" style="zoom: 50%;" />
+<img src="http://cdn.autunomy.top/ff8519d003ea49b398ef56d256299414smile.jpg" alt="http://cdn.autunomy.top/ff8519d003ea49b398ef56d256299414smile.jpg" style="zoom: 50%;margin:0 auto;text-algin:center" />
 
 # 😀Autunomy的算法学习记录
 
