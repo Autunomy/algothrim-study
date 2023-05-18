@@ -12,13 +12,22 @@
 
 # 导航
 
-竞赛题解
+## 💡题解
 
-- [力扣周赛题解](https://github.com/Autunomy/algothrim-study/tree/main/leetcode/weekly)
-- [力扣双周赛题解](https://github.com/Autunomy/algothrim-study/tree/main/leetcode/biweekly)
-- [codeforces比赛部分题解](https://github.com/Autunomy/algothrim-study/tree/main/codeforces/contest)
+- [🏆力扣周赛题解](https://github.com/Autunomy/algothrim-study/tree/main/leetcode/weekly)
+- [🏆力扣双周赛题解](https://github.com/Autunomy/algothrim-study/tree/main/leetcode/biweekly)
+- [🏆codeforces比赛部分题解](https://github.com/Autunomy/algothrim-study/tree/main/codeforces/contest)
+- [🏆atcoder比赛部分题解](https://github.com/Autunomy/algothrim-study/tree/main/atcoder)
+- [🏆ACWing比赛部分题解](https://github.com/Autunomy/algothrim-study/tree/main/ACWing)
+- [🏆牛客比赛部分题解](https://github.com/Autunomy/algothrim-study/tree/main/newcoder)
+- [codeforces分数分类题解(⏳表示正在练习的分数，几乎每天都在更新)](https://github.com/Autunomy/algothrim-study/tree/main/codeforces/practice/score)
+  - [1400⏳](https://github.com/Autunomy/algothrim-study/tree/main/codeforces/practice/score/1400)
+  - [1500](https://github.com/Autunomy/algothrim-study/tree/main/codeforces/practice/score/1500)
+  - [1700](https://github.com/Autunomy/algothrim-study/tree/main/codeforces/practice/score/1700)
 
-算法模板(目前没有文字描述，后续会补)
+
+## 算法模板(目前没有文字描述，后续会补)
 
 - [并查集](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/%E5%B9%B6%E6%9F%A5%E9%9B%86)
 - [二叉堆](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/%E4%BA%8C%E5%8F%89%E5%A0%86)
+- [排序算法汇总]()
