@@ -30,4 +30,4 @@
 
 - [并查集](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/%E5%B9%B6%E6%9F%A5%E9%9B%86)
 - [二叉堆](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/%E4%BA%8C%E5%8F%89%E5%A0%86)
-- [排序算法汇总]()
+- [排序算法汇总(包含java和cpp模板)](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%B1%87%E6%80%BB)
