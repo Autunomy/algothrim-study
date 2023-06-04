@@ -32,3 +32,5 @@
 - [二叉堆](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/%E4%BA%8C%E5%8F%89%E5%A0%86)
 - [排序算法汇总(包含java和cpp模板)](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%B1%87%E6%80%BB)
 - [求topK的四种算法](https://github.com/Autunomy/algothrim-study/blob/main/algorithm-template/topK/%E9%9D%A2%E8%AF%95%E4%B8%AD%E6%B1%82%E8%A7%A3topK%E9%97%AE%E9%A2%98.md)
+- [dp](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/dp)
+  - [数位DP](https://github.com/Autunomy/algothrim-study/blob/main/algorithm-template/dp/%E6%95%B0%E4%BD%8DDP/%E6%95%B0%E4%BD%8DDP.md)
