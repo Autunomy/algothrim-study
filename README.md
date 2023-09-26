@@ -21,10 +21,6 @@
 - [🏆atcoder比赛部分题解](https://github.com/Autunomy/algothrim-study/tree/main/atcoder)
 - [🏆ACWing比赛部分题解](https://github.com/Autunomy/algothrim-study/tree/main/ACWing)
 - [🏆牛客比赛部分题解](https://github.com/Autunomy/algothrim-study/tree/main/newcoder)
-- [codeforces分数分类题解(⏳表示正在练习的分数，几乎每天都在更新)](https://github.com/Autunomy/algothrim-study/tree/main/codeforces/practice/score)
-  - [1400⏳](https://github.com/Autunomy/algothrim-study/tree/main/codeforces/practice/score/1400)
-  - [1500](https://github.com/Autunomy/algothrim-study/tree/main/codeforces/practice/score/1500)
-  - [1700](https://github.com/Autunomy/algothrim-study/tree/main/codeforces/practice/score/1700)
 
 
 ## 算法模板(未标注语言的话就只有java版)
