@@ -45,10 +45,30 @@
   - [拓扑排序](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/%E5%9B%BE/%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F)
   - [最短路](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/%E5%9B%BE/%E6%9C%80%E7%9F%AD%E8%B7%AF)
     - [Dijkstra](https://github.com/Autunomy/algothrim-study/blob/main/algorithm-template/%E5%9B%BE/%E6%9C%80%E7%9F%AD%E8%B7%AF/Dijkstra.md)
+  - DFS
+  - BFS
 - [字符串](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/%E5%AD%97%E7%AC%A6%E4%B8%B2)
   - [Trie字典树](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/%E5%AD%97%E7%AC%A6%E4%B8%B2/Trie%E5%AD%97%E5%85%B8%E6%A0%91)
+  - kmp
 - [dp](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/dp)
   - [数位DP](https://github.com/Autunomy/algothrim-study/blob/main/algorithm-template/dp/%E6%95%B0%E4%BD%8DDP/%E6%95%B0%E4%BD%8DDP.md)
   - [树形dp](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/dp/%E6%A0%91%E5%BD%A2dp)
   - [区间dp](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/dp/%E5%8C%BA%E9%97%B4dp)
   - [最长上升子序列模型](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/dp/%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B)
+  - 线性dp
+  - 背包问题
+  - 计数dp
+  - 状态压缩DP
+  - 记忆化搜索
+- 贪心
+- 数学
+  - 质数
+  - 约数
+  - 欧拉函数
+  - 快速幂
+  - 扩展欧几里得算法
+  - 中国剩余定理
+  - 高斯消元
+  - 组合计数
+  - 容斥原理
+  - 简单博弈论
