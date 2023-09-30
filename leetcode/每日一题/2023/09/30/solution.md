@@ -1,3 +1,4 @@
+2136. 全部开花的最早一天
 [灵神题解](https://leetcode.cn/problems/earliest-possible-day-of-full-bloom/?envType=daily-question&envId=2023-09-30)
 
 ```java
