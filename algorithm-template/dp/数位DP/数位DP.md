@@ -31,3 +31,15 @@ public int f(String s,int i,int mask,boolean is_limit,boolean is_num){
 }
 ```
 视频讲解：https://www.bilibili.com/video/BV1rS4y1s721?share_source=copy_web 直接查看T4即可
+
+ 	
+
+| 题目                                                         | 难度       | 题解                                                 |
+| ------------------------------------------------------------ | ---------- | ---------------------------------------------------- |
+| [数字 1 的个数](https://leetcode.cn/problems/number-of-digit-one/) | 困难       | [题解](http://www.autunomy.top/solution/content/183) |
+| [面试题 17.06. 2出现的次数](https://leetcode.cn/problems/number-of-2s-in-range-lcci/) | 困难       | [题解](http://www.autunomy.top/solution/content/186) |
+| [不含连续1的非负整数](https://leetcode.cn/problems/non-negative-integers-without-consecutive-ones/) | 困难       |                                                      |
+| [最大为 N 的数字组合](https://leetcode.cn/problems/numbers-at-most-n-given-digit-set/) | 困难(1990) |                                                      |
+| [找到所有好字符串](https://leetcode.cn/problems/find-all-good-strings/) | 困难(2667) |                                                      |
+| [至少有 1 位重复的数字](https://leetcode.cn/problems/numbers-with-repeated-digits/description/) | 困难       | [题解](http://www.autunomy.top/solution/content/182) |
+
