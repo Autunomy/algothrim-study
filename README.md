@@ -16,12 +16,11 @@
 
 - [🏆力扣周赛题解](https://github.com/Autunomy/algothrim-study/tree/main/leetcode/weekly)
 - [🏆力扣双周赛题解](https://github.com/Autunomy/algothrim-study/tree/main/leetcode/biweekly)
-- [📆力扣每日一题题解](https://github.com/Autunomy/algothrim-study/tree/main/leetcode/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/)
 - [🏆codeforces比赛部分题解](https://github.com/Autunomy/algothrim-study/tree/main/codeforces/contest)
 - [🏆atcoder比赛部分题解](https://github.com/Autunomy/algothrim-study/tree/main/atcoder)
 - [🏆ACWing比赛部分题解](https://github.com/Autunomy/algothrim-study/tree/main/ACWing)
 - [🏆牛客比赛部分题解](https://github.com/Autunomy/algothrim-study/tree/main/newcoder)
-
+- [📆力扣每日一题题解](https://github.com/Autunomy/algothrim-study/tree/main/leetcode/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/)
 
 ## 算法模板(java版本)
 
