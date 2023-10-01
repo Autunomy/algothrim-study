@@ -47,6 +47,7 @@
     - [Dijkstra](https://github.com/Autunomy/algothrim-study/blob/main/algorithm-template/%E5%9B%BE/%E6%9C%80%E7%9F%AD%E8%B7%AF/Dijkstra.md)
   - DFS
   - BFS
+  - 基环树
 - [字符串](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/%E5%AD%97%E7%AC%A6%E4%B8%B2)
   - [Trie字典树](https://github.com/Autunomy/algothrim-study/tree/main/algorithm-template/%E5%AD%97%E7%AC%A6%E4%B8%B2/Trie%E5%AD%97%E5%85%B8%E6%A0%91)
   - kmp
