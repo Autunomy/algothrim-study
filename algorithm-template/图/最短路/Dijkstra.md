@@ -71,6 +71,8 @@ int main(){
     cout<<dijkstra()<<endl;
     return 0;
 }
+```
+```java
 import java.util.*;
 public class Main{
     static int N = 510,n,m, max = 0x3f3f3f3f;
@@ -129,7 +131,6 @@ public class Main{
     }
 }
 ```
-
 | 题目                                                         | 题解                                          |
 | ------------------------------------------------------------ | --------------------------------------------- |
 | [Dijkstra求最短路 I](https://www.acwing.com/problem/content/851/) | https://www.acwing.com/solution/content/5806/ |
