@@ -8,7 +8,7 @@ import java.util.*;
  * @other 题解及更多请看www.autunomy.top
  */
 
-class Main {
+public class Main {
     private static Kattio sc = new Kattio();
     int[][] pos4 = new int[][]{{-1,0},{0,1},{1,0},{0,-1}};
     int[][] pos8 = new int[][]{{-1,0},{-1,1},{0,1},{1,1},{1,0},{1,-1},{0,-1},{-1,-1}};
